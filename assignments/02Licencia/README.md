@@ -30,7 +30,7 @@ De salida debe mostrar Si  puede obtener su licencia o No la puede obtener.
 **Entradas**
 El programa va a preguntar por:
 - la edad de la persona, debe ser un entero positivo.
-- si tiene identificación o no. Debe ser un string, que contenga las letras "s" o "n"
+- si tiene identificación o no. Debe ser un string, que contenga las letras "s" o "n". Puede contestar con mayúsculas.
 
 **Salidas**
 Añade el código necesario para que el programa imprima:
